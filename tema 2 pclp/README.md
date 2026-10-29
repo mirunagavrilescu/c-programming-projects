@@ -1,4 +1,4 @@
-### 4. Battleships & Data Analysis (C Game Engine)
+### 2. Battleships & Data Analysis (C Game Engine)
 A modular implementation of the classic Battleships game, featuring dynamic memory management and an advanced statistical analysis module for player accuracy.
 
 * **Architecture:** The project is modularized into three main files: `battleships.c` (main execution), `battleships_functions.c` (core logic implementation), and `battleships.h` (data structures and function prototypes).
